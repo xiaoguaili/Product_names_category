@@ -2,7 +2,7 @@
 
 ## Part 1: Order Item Name
 ### Outline:
-In order to predict the categories of products, a reference dataset (Amazon product dataset ../website or reference#) is adopted to train the model. The reference dataset is divided into training set and test set. Using a naive bayes model, 44 categories are predicted for the test set, with 75% accuracy.
+In order to predict the categories of products, a reference dataset (Amazon product dataset ../website or reference#) is adopted to train the model. The reference dataset is divided into training set and test set. Using a naive bayes model, 44 categories are predicted for the test set, with 75% accuracy. (The result of XGBoost model is coming soon.)
 
 ### 1. Goal: 
 For the online transactions, we have the information about the product items that people buy,
