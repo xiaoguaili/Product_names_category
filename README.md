@@ -72,7 +72,7 @@ The reference dataset is divided into training set and test set. Using a naive b
 
 
 ### 5. Summary: 
-Naive bayes model is trained with a reference dataset and achieved 75% accuracy in the test set. Products in the target dataset are well classified into 24 out of 44 categories and exported.
+Naive bayes model is trained with a reference dataset and achieved 75% accuracy in the test set. Products in the target dataset are well classified into 24 out of 44 categories and exported. (The result of XGBoost model is coming soon.)
 
 ### References:   
  [1] Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering,  R. He, J. McAuley, WWW, 2016
